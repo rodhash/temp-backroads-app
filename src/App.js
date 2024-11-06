@@ -8,6 +8,7 @@ import { Tours }    from './Components/tours';
 import Footer       from './Components/footer';
 
 function App() {
+  const foo = 0
   return (
     <>
       <Navbar />
